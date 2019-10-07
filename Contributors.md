@@ -28,6 +28,7 @@
 - [bubz](https://github.com/debubz)
 - [ShvetaNeginhal](https://github.com/ShvetaNeginhal)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
+- [Dev bhardwaj](https://github.com/Neuron34)
 - [Manisha Tiwari](https://github.com/manishatiwari393)
 - [Android-Nougat](https://github.com/Android-Nougat)
 - [Akshat Khandelwal](https://github.com/ak127a)
